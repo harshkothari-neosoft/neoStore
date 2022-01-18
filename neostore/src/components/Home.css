@@ -1,0 +1,11 @@
+#home::before{
+    content:"";
+    position:absolute;
+    background: url('../../public/images/background.gif') no-repeat center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    /* opacity: 0.8; */
+}

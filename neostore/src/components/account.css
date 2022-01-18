@@ -1,0 +1,34 @@
+.ull{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.profile_img{
+    border-radius: 50%;
+    width: 12rem;
+    height: 12rem;
+}
+
+#side_account::before{
+    content:"";
+    position:absolute;
+    background: url('https://www.adweek.com/wp-content/uploads/2020/03/behr-zoom-background-feature-2020.jpg') no-repeat center/cover;
+    height: 100vh;
+    width: 100%; 
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.6;
+}
+
+#main_account::before{
+    content:"";
+    position:absolute;
+    background: url('https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1024,h_587/https://newywithkids.com.au/wp-content/uploads/2020/04/Tangles-1024x587.jpg') no-repeat center/cover;
+    height: 100vh;
+    width: 100%; 
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.6;
+}
