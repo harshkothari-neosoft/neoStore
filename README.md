@@ -28,3 +28,6 @@
 
 ## CheckOut Page
 ![Screenshot (485)](https://user-images.githubusercontent.com/90671714/149883318-71d69a98-03f3-4d08-9b59-bc52f6507997.png)
+
+## Invoice
+![Screenshot (486)](https://user-images.githubusercontent.com/90671714/149885315-08a58beb-ee8c-4413-8ff8-62ac4449bcbc.png)
