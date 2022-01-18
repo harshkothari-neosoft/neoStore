@@ -1,4 +1,4 @@
-# neoStore
+# NEOSTORE
 ## Login Page
 ![Screenshot (476)](https://user-images.githubusercontent.com/90671714/149883228-e9f773ed-611b-4159-920a-b893a25256d8.png)
 
