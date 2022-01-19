@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "color_name": "Black",
+  "color_code": "#000000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "color_name": "Red",
+  "color_code": "#E84855",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "color_name": "Grey",
+  "color_code": "#808080",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "color_name": "Blue",
+  "color_code": "#0000FF",
+  "__v": 0
+}]

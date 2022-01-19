@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "61e41af7dd306769ba4dc7ab"
+  },
+  "user_email": "harshk6300@gmail.com",
+  "card_name": "Harsh",
+  "subtotal": 7998,
+  "gst": 399.9,
+  "totalCart": [
+    {
+      "rated_by": 1,
+      "_id": "61d6efd5e54fe34df40396bc",
+      "product_name": "Sporty Jacket",
+      "product_image": "Blue_jacket_1.webp",
+      "product_desc": "Blue solid jacket, has a stand collar, 2 pockets, zip closure, long sleeves, straight hem, and polyester lining",
+      "product_subimages": [
+        "Blue_jacket_1.webp",
+        "Blue_jacket_2.webp",
+        "Blue_jacket_3.webp",
+        "Blue_jacket_4.webp"
+      ],
+      "product_cost": 3499,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d6b3c7ec904cfeb232ed7a",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d6c31b8fc0445d6d0ff12e",
+        "category_name": "Jacket",
+        "created_at": "2022-01-06T10:23:23.526Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T13:34:13.981Z",
+      "__v": 0,
+      "product_fet": "Removable elbow, shoulder and back protection 1.Waterproof jacket in 500D elastic cordura fabric with membrane(waterproofness of 15.000 mm water column, breathability of 15.000g/m2/24h) 2.Stretch fabric inserts for optimum freedom of movement and comfort 3.Invisible waterproof zip, front central opening 4.Exposed waterproof zip on jacket front for: 1) ventilation 2) cargo pocket 5.Pockets for external sleeve protection 6. 4 external pockets, 1 sleeve pocket, 1 internal pocket, 2 pockets in removable external padding 7.side adjustment by means of drawstring and rubberised buckles 8.Removable inner jacket with mini rip stop fabric+fleece",
+      "quantity": 1
+    },
+    {
+      "_id": "61d6f5099b1f526cf8b4d2c1",
+      "product_name": "HRX Sports Shoes",
+      "product_image": "Blue_shoes_1.jpg",
+      "product_desc": "The new race-ready HRX performance running shoe from the PROPULSION collection with lightweight midsole that returns energy with each step & propels runners forward & faster. Engineered knit upper provides the ultimate comfort fit.",
+      "product_subimages": [
+        "Blue_shoes_1.jpg",
+        "Blue_shoes_2.jpg",
+        "Blue_shoes_3.jpg",
+        "Blue_shoes_4.jpg"
+      ],
+      "product_cost": 4499,
+      "product_rating": 27.5,
+      "color_id": {
+        "_id": "61d6b3c7ec904cfeb232ed7a",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d6c3398fc0445d6d0ff130",
+        "category_name": "Shoes",
+        "created_at": "2022-01-06T10:23:53.317Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T13:56:25.242Z",
+      "__v": 0,
+      "product_fet": "NIT Shoes FOAM: PUMA's advanced technology providing superior responsivenEssential and cushioning in a lightweight pTrackAG INNOPLATE: PUMA's innovative plate designed to act as a lever for maximum energy ansfer at toe-off PUMAG ShoesRIP: PUMA's durable rubber compound that provides all-surface action",
+      "rated_by": 6,
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "IT Park",
+      "city": "Indore",
+      "pincode": "452002",
+      "states": "Madhya Pradesh",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-16T13:17:43.187Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4fc655740fcc454166814"
+  },
+  "user_email": "tejal123supe@gmail.com",
+  "card_name": "Tejal",
+  "subtotal": 4499,
+  "gst": 224.95,
+  "totalCart": [
+    {
+      "_id": "61d6f5099b1f526cf8b4d2c1",
+      "product_name": "HRX Sports Shoes",
+      "product_image": "Blue_shoes_1.jpg",
+      "product_desc": "The new race-ready HRX performance running shoe from the PROPULSION collection with lightweight midsole that returns energy with each step & propels runners forward & faster. Engineered knit upper provides the ultimate comfort fit.",
+      "product_subimages": [
+        "Blue_shoes_1.jpg",
+        "Blue_shoes_2.jpg",
+        "Blue_shoes_3.jpg",
+        "Blue_shoes_4.jpg"
+      ],
+      "product_cost": 4499,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d6b3c7ec904cfeb232ed7a",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d6c3398fc0445d6d0ff130",
+        "category_name": "Shoes",
+        "created_at": "2022-01-06T10:23:53.317Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-06T13:56:25.242Z",
+      "__v": 0,
+      "product_fet": "NIT Shoes FOAM: PUMA's advanced technology providing superior responsivenEssential and cushioning in a lightweight pTrackAG INNOPLATE: PUMA's innovative plate designed to act as a lever for maximum energy ansfer at toe-off PUMAG ShoesRIP: PUMA's durable rubber compound that provides all-surface action",
+      "rated_by": 1,
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "Khandwa road",
+      "pincode": 452002,
+      "city": "Indore",
+      "states": "MP",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-17T05:19:33.508Z"
+  },
+  "__v": 0
+}]

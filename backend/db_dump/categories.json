@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "61d6b6bec425fbcdf26a4e9d"
+  },
+  "category_name": "Sofa",
+  "created_at": {
+    "$date": "2022-01-06T09:30:38.625Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6b718c425fbcdf26a4e9f"
+  },
+  "category_name": "Watch",
+  "created_at": {
+    "$date": "2022-01-06T09:32:08.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6c31b8fc0445d6d0ff12e"
+  },
+  "category_name": "Jacket",
+  "created_at": {
+    "$date": "2022-01-06T10:23:23.526Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6c3398fc0445d6d0ff130"
+  },
+  "category_name": "Shoes",
+  "created_at": {
+    "$date": "2022-01-06T10:23:53.317Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d6c3688fc0445d6d0ff132"
+  },
+  "category_name": "Handbag",
+  "created_at": {
+    "$date": "2022-01-06T10:24:40.571Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61defd488b5f7424d33bca7a"
+  },
+  "category_name": "Mobile",
+  "created_at": {
+    "$date": "2022-01-12T16:09:44.986Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,634 @@
+[{
+  "_id": {
+    "$oid": "61d6c76ee54fe34df40396ba"
+  },
+  "product_name": "Leather Jacket",
+  "product_image": "Black_jacket_1.jpg",
+  "product_desc": "Jackets in bright colors to fight the winter blues. Pair with our denims for a casual comfortable look.",
+  "product_subimages": [
+    "Black_jacket_1.jpg",
+    "Black_jacket_2.jpg",
+    "Black_jacket_3.jpg",
+    "Black_jacket_4.jpg"
+  ],
+  "product_cost": 3999,
+  "product_rating": 7.5,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61d6c31b8fc0445d6d0ff12e"
+  },
+  "created_at": {
+    "$date": "2022-01-06T10:41:50.503Z"
+  },
+  "__v": 0,
+  "product_fet": "Comes with D3O® protection for your back, shoulders and elbows .Extra layer to keep you warm on cold days but (removable for warmer weather) .Air Vent System (AVS) that let your body breath when it's hot .Back protector is supplied",
+  "rated_by": 2
+},{
+  "_id": {
+    "$oid": "61d6efd5e54fe34df40396bc"
+  },
+  "product_name": "Sporty Jacket",
+  "product_image": "Blue_jacket_1.webp",
+  "product_desc": "Blue solid jacket, has a stand collar, 2 pockets, zip closure, long sleeves, straight hem, and polyester lining",
+  "product_subimages": [
+    "Blue_jacket_1.webp",
+    "Blue_jacket_2.webp",
+    "Blue_jacket_3.webp",
+    "Blue_jacket_4.webp"
+  ],
+  "product_cost": 3499,
+  "product_rating": 8,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61d6c31b8fc0445d6d0ff12e"
+  },
+  "created_at": {
+    "$date": "2022-01-06T13:34:13.981Z"
+  },
+  "__v": 0,
+  "product_fet": "Removable elbow, shoulder and back protection 1.Waterproof jacket in 500D elastic cordura fabric with membrane(waterproofness of 15.000 mm water column, breathability of 15.000g/m2/24h) 2.Stretch fabric inserts for optimum freedom of movement and comfort 3.Invisible waterproof zip, front central opening 4.Exposed waterproof zip on jacket front for: 1) ventilation 2) cargo pocket 5.Pockets for external sleeve protection 6. 4 external pockets, 1 sleeve pocket, 1 internal pocket, 2 pockets in removable external padding 7.side adjustment by means of drawstring and rubberised buckles 8.Removable inner jacket with mini rip stop fabric+fleece",
+  "rated_by": 2
+},{
+  "_id": {
+    "$oid": "61d6f0cee54fe34df40396be"
+  },
+  "product_name": "Puffer Jacket",
+  "product_image": "Grey_jacket_1.jpg",
+  "product_desc": "Grey colourblocked jacket, has a mock collar, 2 pockets, zip closure, long sleeves, straight hem, and nylon lining",
+  "product_subimages": [
+    "Grey_jacket_1.jpg",
+    "Grey_jacket_2.jpg",
+    "Grey_jacket_3.jpg",
+    "Grey_jacket_4.jpg"
+  ],
+  "product_cost": 1799,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61d6c31b8fc0445d6d0ff12e"
+  },
+  "created_at": {
+    "$date": "2022-01-06T13:38:22.714Z"
+  },
+  "__v": 0,
+  "product_fet": "Sleeve Length:Long Sleeves Type:Padded Jacket Collar:Hooded Print or Pattern Type:Solid Length:Regular Closure:Zip Lining Fabric:Polyester Number of Pockets:2 Hemline:Straight Occasion:Casual",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d6f27e61d6e192cc21f48e"
+  },
+  "product_name": "Sports Jacket",
+  "product_image": "Red_jacket_1.jpeg",
+  "product_desc": "Red solid self design sporty jacket, has a stand collar, pockets ,has a zip closure, long sleeves, straight hemline, polyester lining",
+  "product_subimages": [
+    "Red_jacket_1.jpeg",
+    "Red_jacket_2.jpeg",
+    "Red_jacket_3.jpeg",
+    "Red_jacket_4.jpeg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61d6c31b8fc0445d6d0ff12e"
+  },
+  "created_at": {
+    "$date": "2022-01-06T13:45:34.295Z"
+  },
+  "__v": 0,
+  "product_fet": "Sleeve Length:Long Sleeves Type:Padded Jacket Collar:Hooded Print or Pattern Type:Solid Length:Regular Closure:Zip Lining Fabric:Polyester Number of Pockets:2 Hemline:Straight Occasion:Casual",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d6f3e39b1f526cf8b4d2bf"
+  },
+  "product_name": "Sparx Sneakers",
+  "product_image": "Black_shoes_1.jpg",
+  "product_desc": "A pair of round-toe black sneakers, has regular styling, lace-up detail Canvas upper Cushioned footbed Textured and patterned outsole",
+  "product_subimages": [
+    "Black_shoes_1.jpg",
+    "Black_shoes_2.jpg",
+    "Black_shoes_3.jpg",
+    "Black_shoes_4.jpg"
+  ],
+  "product_cost": 1599,
+  "product_rating": 4.5,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61d6c3398fc0445d6d0ff130"
+  },
+  "created_at": {
+    "$date": "2022-01-06T13:51:31.629Z"
+  },
+  "__v": 0,
+  "product_fet": "SoftFoam+: comfort sockliner for instant step-in and long-lasting comfort that provides soft cushioning every step of your day CMEVA: PUMA's compression-moulded EVA material for lightweight performance.",
+  "rated_by": 2
+},{
+  "_id": {
+    "$oid": "61d6f5099b1f526cf8b4d2c1"
+  },
+  "product_name": "HRX Sports Shoes",
+  "product_image": "Blue_shoes_1.jpg",
+  "product_desc": "The new race-ready HRX performance running shoe from the PROPULSION collection with lightweight midsole that returns energy with each step & propels runners forward & faster. Engineered knit upper provides the ultimate comfort fit.",
+  "product_subimages": [
+    "Blue_shoes_1.jpg",
+    "Blue_shoes_2.jpg",
+    "Blue_shoes_3.jpg",
+    "Blue_shoes_4.jpg"
+  ],
+  "product_cost": 4499,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61d6c3398fc0445d6d0ff130"
+  },
+  "created_at": {
+    "$date": "2022-01-06T13:56:25.242Z"
+  },
+  "__v": 0,
+  "product_fet": "NIT Shoes FOAM: PUMA's advanced technology providing superior responsivenEssential and cushioning in a lightweight pTrackAG INNOPLATE: PUMA's innovative plate designed to act as a lever for maximum energy ansfer at toe-off PUMAG ShoesRIP: PUMA's durable rubber compound that provides all-surface action",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d700a19b1f526cf8b4d2c3"
+  },
+  "product_name": "Campus Sports Shoes",
+  "product_image": "Grey_shoes_1.jpg",
+  "product_desc": "A pair of grey running sports shoes, has regular styling, lace-up detail Mesh upper Cushioned footbed Textured and patterned outsole",
+  "product_subimages": [
+    "Grey_shoes_1.jpg",
+    "Grey_shoes_2.jpg",
+    "Grey_shoes_3.jpg",
+    "Grey_shoes_4.jpg"
+  ],
+  "product_cost": 2099,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61d6c3398fc0445d6d0ff130"
+  },
+  "created_at": {
+    "$date": "2022-01-06T14:45:53.688Z"
+  },
+  "__v": 0,
+  "product_fet": "The Nike Shox is a lightweight men's shoe that is also an excellent provider of support and some light cushioning. For optimum comfort and cushioning this shoe features Nike Shox technology. Thanks to its rubber outsole you will be able to turn on a dime and make all of the fast moves that you need to."
+},{
+  "_id": {
+    "$oid": "61d714cc6d593aaca6546e93"
+  },
+  "product_name": "U S Polo sneakers",
+  "product_image": "Red_shoes_1.jpeg",
+  "product_desc": "A pair of round toe red sneakers ,has regular styling, Lace-ups detail Canvas upper Cushioned footbed Textured and patterned outsole",
+  "product_subimages": [
+    "Red_shoes_1.jpeg",
+    "Red_shoes_2.jpeg",
+    "Red_shoes_3.jpeg",
+    "Red_shoes_4.jpeg"
+  ],
+  "product_cost": 1899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61d6c3398fc0445d6d0ff130"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:11:56.283Z"
+  },
+  "__v": 0,
+  "product_fet": "LQDCELL: PUMA’s solution for stable cushioning engineered with our liquid CELL hexagons"
+},{
+  "_id": {
+    "$oid": "61d716486d593aaca6546e95"
+  },
+  "product_name": "Analogue Watch",
+  "product_image": "Black_watch_1.jpg",
+  "product_desc": "This is a genuine Britex product. The product comes with a standard manufacturer warranty for 6 Months",
+  "product_subimages": [
+    "Black_watch_1.jpg",
+    "Black_watch_2.jpg",
+    "Black_watch_3.jpg",
+    "Black_watch_4.jpg"
+  ],
+  "product_cost": 2599,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61d6b718c425fbcdf26a4e9f"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:18:16.374Z"
+  },
+  "__v": 0,
+  "product_fet": "Band Colour:\tBlack\nBand Material:\tMetal\nBand Width:\t20 Millimeters\nBrand:\tSonata\nCase Diameter:\t47.5 Millimeters\nCase Material:\tBrass\nDial Colour:\tBlack\nCrystal Material:\tMineral\nDisplay Type: Analog\nCase Shape:\tRound\nModel Number\tNN77031KM03\nMovement:\tQuartz\nWater Resistance Depth:\t30 Meters\nWarranty Description:12 months manufacturer warranty on manufacturing defects."
+},{
+  "_id": {
+    "$oid": "61d717166d593aaca6546e97"
+  },
+  "product_name": "LimeStone Analogue Watch",
+  "product_image": "Blue_watch_1.jpeg",
+  "product_desc": "This is a genuine LimeStone product. The product comes with a standard manufacturer warranty for 6 Months",
+  "product_subimages": [
+    "Blue_watch_1.jpeg",
+    "Blue_watch_2.jpeg",
+    "Blue_watch_3.jpeg",
+    "Blue_watch_4.jpeg"
+  ],
+  "product_cost": 1999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61d6b718c425fbcdf26a4e9f"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:21:42.314Z"
+  },
+  "__v": 0,
+  "product_fet": "Band Colour:\tBlue\nBand Material:\tLeather\nBand Width:\t22 Millimeters\nBrand:\tREDUX\nCase Diameter:\t38 Millimeters\nCase Material:\tAlloy Steel\nCollection:\tCasual\nDial Colour:  SILVER\nCrystal MateriaL:Glass\nDisplay Type:\tAnalog\nCase Shape:\tRound\nModel Number:\tRWS0216\nMovement:\tQuartz\nWarranty Description:\t1 Years manufacturer warranty on manufacturing defects"
+},{
+  "_id": {
+    "$oid": "61d718556d593aaca6546e99"
+  },
+  "product_name": "Smart Watch",
+  "product_image": "Grey_watch_1.jpeg",
+  "product_desc": "Industry's first touch to wake featuring full touch smartwatch Full touch screen 1.3 inch HD display smartwatch with SpO2 Fashion on your sleeve - Full metal body and ultra lightweight Designed to make you look stunning always SpO2 Blood oxygen monitoring & Heart Rate tracking & Blood Pressure Tracking 7 Sports Modes - Running, Walking, Cycling, Basketball, Badminton, Football, Skipping, Fitness & Outdoor",
+  "product_subimages": [
+    "Grey_watch_1.jpeg",
+    "Grey_watch_2.jpeg",
+    "Grey_watch_3.jpeg",
+    "Grey_watch_4.jpeg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61d6b718c425fbcdf26a4e9f"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:27:01.917Z"
+  },
+  "__v": 0,
+  "product_fet": ".CONNECTIVITY: Bluetooth 5.0\nCOMPATIBLITY: Above android 5.0 & IOS 10.0\nBUILT-IN GPS: GPS + GLONASS\nWATER RESISTANCE: 5 ATM\nCALLING: Yes (Built in mic & speaker)\nNOTIFICATIONS: Incoming calls, APP and SMS notifications, idle alerts\nAPP TO CONNECT: ZEPP\nHEART RATE MONITOR: Yes\nINTERNAL STORAGE: Yes, 4GB/user availabe 2GB\nALEXA INTEGRATION: NO\nHUAMI PAI: Yes\nTYPE:16.5\" (4.19 cm) AMOLED Display\nGorilla Glass 3\nAnti - Fingerprint Coating\nSensors & Components"
+},{
+  "_id": {
+    "$oid": "61d71b606d593aaca6546e9b"
+  },
+  "product_name": "G-Shock Watch",
+  "product_image": "Red_watch_1.jpeg",
+  "product_desc": "Case style: Digital watch with a round case and a stainless steel back Dial style: Black dial, has two digital displays for day and time Features: Shock-resistant, mud-resistant, super illuminator, world time, twin sensors for compass and thermometer, 1/100-second stopwatch, countdown timer, alarm, five press-buttons to adjust the features Strap style: Green synthetic strap secured with a tang clasp closure Water-resistant up to 200 m Comes in a signature CASIO case Warranty: 2 years against manufacturing defects from the date of purchase Warranty provided by Brand Owner / Manufacturer",
+  "product_subimages": [
+    "Red_watch_1.jpeg",
+    "Red_watch_2.jpeg",
+    "Red_watch_3.jpeg",
+    "Red_watch_4.jpeg"
+  ],
+  "product_cost": 2399,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61d6b718c425fbcdf26a4e9f"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:40:00.680Z"
+  },
+  "__v": 0,
+  "product_fet": "4.Band Colour:\tRed\nBand Material:\tPlastic\nBand Width:\t22 Millimeters\nBrand:\tCasio\nCalendar Type:\tDay-Date-Month\nCase Diameter:\t50 Millimeters\nCase Material:\tResin\nCollection:\tG-shock\nDial Colour:\tBlack\nDisplay Type:\tAnalog-Digital\nCase Shape:\tRound\nModel Number:\tGA-700-4ADR (G716)\nSpecial Features:\tAlarm, Water Resistant, World Time\nMovement:\tQuartz\nWarranty Description:2 Years Manufacturer warranty from the date of purchase"
+},{
+  "_id": {
+    "$oid": "61d71c5b6d593aaca6546e9d"
+  },
+  "product_name": "Sofa Set",
+  "product_image": "Black_sofa_1.jpg",
+  "product_desc": "Bharat Lifestyle brings to you modern and comfortable sofa set for your living room.Bharat Lifestyle Tulip Cream Brown Soft Touch Fabric 3+1+1 Sofa Set is made of Acacia wood. It has an elegant design which enhances the interior decor of your living room. Designed in such a way, the sofa is comfortable to sit. The best part it, it comes with good price without compromising on quality. Buy this sofa today!",
+  "product_subimages": [
+    "Black_sofa_1.jpg",
+    "Black_sofa_2.jpg",
+    "Black_sofa_3.jpg",
+    "Black_sofa_4.jpg"
+  ],
+  "product_cost": 20999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61d6b6bec425fbcdf26a4e9d"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:44:11.179Z"
+  },
+  "__v": 0,
+  "product_fet": "comfortable 3 seater sofa leather premium quality leather & foam",
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61d71d324d9613351bfe2219"
+  },
+  "product_name": "Blue Sofa Set",
+  "product_image": "Blue_Sofa_1.jpg",
+  "product_desc": "This sofa set is a clear all-rounder when it comes to using it for any weather, be it summer or winter, thanks to its fabric upholstery which offers long-lasting comfort",
+  "product_subimages": [
+    "Blue_Sofa_1.jpg",
+    "Blue_Sofa_2.jpg",
+    "Blue_Sofa_3.jpg",
+    "Blue_Sofa_4.jpg"
+  ],
+  "product_cost": 50999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61d6b6bec425fbcdf26a4e9d"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:47:46.391Z"
+  },
+  "__v": 0,
+  "product_fet": "CHESTERFIELD STYLE: Designed with the traditional Chesterfield sofa in mind, this piece hits all the key elements, with button tufting, nailhead accents, scrolled arms, and turned legs. This is finished with gorgeous upholstery and elegant diamond stitching."
+},{
+  "_id": {
+    "$oid": "61d71e254d9613351bfe221b"
+  },
+  "product_name": "Grey Sofa Set",
+  "product_image": "Grey_sofa_1.jpg",
+  "product_desc": " Amp up your living room with the Westido Fabric 3+1+1 Navy Blue Sofa Set. Featuring scratch-resistant fabric, high-grade solid wood and high-density foam, this sofa will be comfortable to sit on and will complement your living space as well.",
+  "product_subimages": [
+    "Grey_sofa_1.jpg",
+    "Grey_sofa_2.jpg",
+    "Grey_sofa_3.jpg",
+    "Grey_sofa_4.jpg"
+  ],
+  "product_cost": 19999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61d6b6bec425fbcdf26a4e9d"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:51:49.145Z"
+  },
+  "__v": 0,
+  "product_fet": "Orthopedic Sofa cum bed - Targeted support for healthy spinal alignment and orthopedic benefits\nEPE Foam - High Density EPE Foam provides extra strength and durability to the product, while retaining the comfort and cushion of the Sofa Bed."
+},{
+  "_id": {
+    "$oid": "61d71ef64d9613351bfe221d"
+  },
+  "product_name": "Red Sofa Set",
+  "product_image": "Red_sofa_1.jpg",
+  "product_desc": "The color of the product may vary slightly from the picture displayed on your screen: this is due to lighting, pixel quality and color settings. Please check the product dimensions to ensure the product will fit in the desired location. Also, check if the product will fit through the entrance(s) and door(s) of the premises. And if there is no elevator in a multi-storey building, we might be unable to deliver the item to your doorstep. Please expect an unevenness of up to 5 mm in the product due to differences in surfaces and floor levels. Flipkart, or the Seller delivering the product, will not take up any type of civil work, such as drilling holes in the wall to mount the product.",
+  "product_subimages": [
+    "Red_sofa_1.jpg",
+    "Red_sofa_2.jpg",
+    "Red_sofa_3.jpg",
+    "Red_sofa_4.jpg"
+  ],
+  "product_cost": 15999,
+  "product_rating": 8,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61d6b6bec425fbcdf26a4e9d"
+  },
+  "created_at": {
+    "$date": "2022-01-06T16:55:18.811Z"
+  },
+  "__v": 0,
+  "product_fet": "PERFECT FIT: High density stretch fabric with elastic corners provides a perfect fitting as the cover will not ride up or come off easily like any traditional couch covers. This is an universal size sofa cover suitable for most types of sofas. Neat stitching; 360 degrees Full coverage. Freshens up any home decor",
+  "rated_by": 2
+},{
+  "_id": {
+    "$oid": "61d720374d9613351bfe221f"
+  },
+  "product_name": "Black Handbag",
+  "product_image": "black_handbag_1.jpg",
+  "product_desc": "Black solid shoulder bag, has a zip closure 1 main compartment, 1 external and 3 inner pockets",
+  "product_subimages": [
+    "black_handbag_1.jpg",
+    "black_handbag_2.jpg",
+    "black_handbag_3.jpg",
+    "black_handbag_4.jpg"
+  ],
+  "product_cost": 899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61d6c3688fc0445d6d0ff132"
+  },
+  "created_at": {
+    "$date": "2022-01-06T17:00:39.129Z"
+  },
+  "__v": 0,
+  "product_fet": "Product Material: Faux Leather\nProduct Colour: Black\nProduct Occasion: CASUAL, PARTY\nProduct Warrenty: Warranty against manufacturing defects within 10 days of purchase\nWater Resistant: This product is water resistant. Wipe with a dry/damp cloth to clean. Do not wash.\nProduct Pattern: 2 handles; 1 adjustable long belt(detachable), Closure: Snap"
+},{
+  "_id": {
+    "$oid": "61d721574d9613351bfe2221"
+  },
+  "product_name": "Blue Handbag",
+  "product_image": "blue_handbag_1.jpg",
+  "product_desc": "Blue solid handheld bag, has a zip closure 1 main compartment, 1 inner pocket",
+  "product_subimages": [
+    "blue_handbag_1.jpg",
+    "blue_handbag_2.jpg",
+    "blue_handbag_3.jpg",
+    "blue_handbag_4.jpg"
+  ],
+  "product_cost": 999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61d6c3688fc0445d6d0ff132"
+  },
+  "created_at": {
+    "$date": "2022-01-06T17:05:27.444Z"
+  },
+  "__v": 0,
+  "product_fet": "Colour: Navt Blue,PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual✅\nParty wear,casual,formal,office use, Light weight and spacious, Designer collection✅\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday, valentine's day and anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,✅\nDo not expose to extreme heat✅"
+},{
+  "_id": {
+    "$oid": "61d722024d9613351bfe2223"
+  },
+  "product_name": "White Handbag",
+  "product_image": "grey_handbag_1.jpg",
+  "product_desc": "Grey-Toned textured hobo bag, has a zip closure 1 main compartment, 1 external and 2 inner pockets",
+  "product_subimages": [
+    "grey_handbag_1.jpg",
+    "grey_handbag_2.jpeg",
+    "grey_handbag_3.jpeg",
+    "grey_handbag_4.jpeg"
+  ],
+  "product_cost": 1099,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61d6c3688fc0445d6d0ff132"
+  },
+  "created_at": {
+    "$date": "2022-01-06T17:08:18.748Z"
+  },
+  "__v": 0,
+  "product_fet": "New Design By \"Speed X Fashion\nMade of PU, Dimension- 30 x 12 x 22 CM (LxWxH)\nHandbags: Two Main Compartments with top Zip closer\n(Number of External Pockets: 1) (Number of Inner Pockets: 2)\nSize: Medium/ Looked: Beauty + & Fancy\n"
+},{
+  "_id": {
+    "$oid": "61d722cc4d9613351bfe2225"
+  },
+  "product_name": "Red Handbag",
+  "product_image": "red_handbad_1.webp",
+  "product_desc": "Red-Toned textured hobo bag, has a zip closure 1 main compartment, 1 external and 2 inner pockets",
+  "product_subimages": [
+    "red_handbad_1.webp",
+    "red_handbad_2.jpeg",
+    "red_handbad_3.jpeg",
+    "red_handbad_4.jpeg"
+  ],
+  "product_cost": 899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61d6c3688fc0445d6d0ff132"
+  },
+  "created_at": {
+    "$date": "2022-01-06T17:11:40.765Z"
+  },
+  "__v": 0,
+  "product_fet": ".Dimensions: 21.5 cm x 18 cm x 7 cm\nproduct material:100% nylon satin\nType:Versatile bag\nProduct pattern :Inner zip pocket\nClosure Type:Zip closure\nHook-and-loop tab keeps handles together\nRemovable, adjustable shoulder strap\nColor: Legacy Red\nProduct code: GD1648"
+},{
+  "_id": {
+    "$oid": "61df0fb4bc881de0fb06201e"
+  },
+  "product_name": "One Plus Nord 2",
+  "product_image": "blue_mobile_1.jpg",
+  "product_desc": "Camera: Sony IMX 766 50MP+8MP+2MP AI Triple Camera with 4K@30FPS|1080p video at 30/60 fps | 32MP Front camera with 1080p video at 30/60 fps | Super Slow Motion: 1080p video at 120 fps, 720p video at 240 fps | Time-Lapse: 1080p 120fps;720p 240fps",
+  "product_fet": "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generationDisplay: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+  "product_subimages": [
+    "blue_mobile_1.jpg",
+    "blue_mobile_2.jpg",
+    "blue_mobile_3.jpg",
+    "blue_mobile_1.jpg"
+  ],
+  "product_cost": 29999,
+  "product_rating": 4.5,
+  "color_id": {
+    "$oid": "61d6b3c7ec904cfeb232ed7a"
+  },
+  "category_id": {
+    "$oid": "61defd488b5f7424d33bca7a"
+  },
+  "created_at": {
+    "$date": "2022-01-12T17:28:20.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61df11251e41c05cc9c1f62e"
+  },
+  "product_name": "I phone 11 mini ",
+  "product_image": "black_mobile_1.jpg",
+  "product_desc": "6.1-inch (15.4 cm diagonal) Liquid Retina HD LCD display Water and dust resistant (2 meters for up to 30 minutes, IP68)",
+  "product_fet": "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generationDisplay: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+  "product_subimages": [
+    "black_mobile_1.jpg",
+    "black_mobile_2.jpg",
+    "black_mobile_3.jpg",
+    "black_mobile_4.jpg"
+  ],
+  "product_cost": 35999,
+  "product_rating": 4.5,
+  "color_id": {
+    "$oid": "61d6b337ec904cfeb232ed74"
+  },
+  "category_id": {
+    "$oid": "61defd488b5f7424d33bca7a"
+  },
+  "created_at": {
+    "$date": "2022-01-12T17:34:29.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61df14dc6a84809c7989ad2d"
+  },
+  "product_name": "I phone 12",
+  "product_image": "red_mobile_1.jpg",
+  "product_desc": "6.1-inch (15.4 cm diagonal) Liquid Retina HD LCD display Water and dust resistant (2 meters for up to 30 minutes, IP68)",
+  "product_fet": "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generationDisplay: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+  "product_subimages": [
+    "red_mobile_1.jpg",
+    "red_mobile_2.jpg",
+    "red_mobile_3.jpg",
+    "red_mobile_4.jpg"
+  ],
+  "product_cost": 37999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b374ec904cfeb232ed76"
+  },
+  "category_id": {
+    "$oid": "61defd488b5f7424d33bca7a"
+  },
+  "created_at": {
+    "$date": "2022-01-12T17:50:20.346Z"
+  },
+  "__v": 0,
+  "rated_by": 1
+},{
+  "_id": {
+    "$oid": "61df15646a84809c7989ad2f"
+  },
+  "product_name": "I phone 13",
+  "product_image": "grey_mobile_1.jpg",
+  "product_desc": "6.1-inch (15.4 cm diagonal) Liquid Retina HD LCD display Water and dust resistant (2 meters for up to 30 minutes, IP68)",
+  "product_fet": "Chipset: MediaTek Dimensity 1200-AI - The octa-core Dimensity 1200-AI features one of the fastest smartphone CPUs ever: the 3GHz Arm Cortex-A78 provides the most immediate response, with up to 22% faster CPU performance while also being 25% more power-efficient versus the previous generationDisplay: 6.43-inch, 90Hz Fluid AMOLED display | Resolution: 2400 x 1080 pixels | 410 PPI | Aspect Ratio: 20:9 | Support sRGB, Display P3Memory, Storage & SIM: 8GB RAM | 128GB internal memory on UFS 3.1 storage system.",
+  "product_subimages": [
+    "grey_mobile_1.jpg",
+    "grey_mobile_2.jpg",
+    "grey_mobile_3.jpg",
+    "grey_mobile_4.jpg"
+  ],
+  "product_cost": 37999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d6b39dec904cfeb232ed78"
+  },
+  "category_id": {
+    "$oid": "61defd488b5f7424d33bca7a"
+  },
+  "created_at": {
+    "$date": "2022-01-12T17:52:36.246Z"
+  },
+  "__v": 0
+}]
